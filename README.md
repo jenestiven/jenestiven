@@ -45,8 +45,7 @@ especially in geospatial systems and commercial platforms.
 
 ## 📊 GitHub Stats
 
-![Jhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenestiven&show_icons=true&theme=tokyonight)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jenestiven&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
 ---
 
 ## 📫 Contact
