@@ -32,6 +32,7 @@ especially in geospatial systems and commercial platforms.
 - Express
 - Firebase (Auth, Firestore, Functions)
 - PostgreSQL + PostGIS
+- Python
 
 ### Geospatial
 - Mapbox GL
@@ -41,35 +42,18 @@ especially in geospatial systems and commercial platforms.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🗺️ Geospatial Web Applications
-Interactive mapping applications using Mapbox & Leaflet with spatial databases.
-
-### 💼 SOAT Sales Management App
-Full-stack application with authentication, roles, dashboard, reports and business logic.
-
-### 🏗️ Remodeling Business Platform
-System designed for customized apartment remodeling management.
-
----
 
 ## 📊 GitHub Stats
 
-![Jhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Jhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenestiven&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 
 - 💼 Open to freelance & remote opportunities
-- 📧 yourmail@email.com
-- 🌐 Portfolio (if you have one)
+- 📧 jhon.gonzalez.aricapa@gmail.com
 
 ---
 
 > "Build systems that solve real problems."
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
